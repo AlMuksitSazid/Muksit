@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37507457980",
+    "project_id": "muksit-3ff4c",
+    "storage_bucket": "muksit-3ff4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37507457980:android:f0c78283282ab13c7781b9",
+        "android_client_info": {
+          "package_name": "com.muksit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37507457980-l89gkq7g75rr34v5scd1red8vj9j69ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZNqDfi17K8P2BA4pmK59UyL0gAThaFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37507457980-l89gkq7g75rr34v5scd1red8vj9j69ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
